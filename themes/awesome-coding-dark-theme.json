@@ -4,7 +4,11 @@
   "type": "dark",
   "description": "A dark theme designed for coding enthusiasts.",
   "version": "1.0.0",
-  "publisher": "tianrodez",
+  "publisher": "AwesomeCoding",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tianrodez/awesome-coding"
+  },
   "keywords": [
     "dark theme",
     "theme",

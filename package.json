@@ -3,6 +3,18 @@
   "displayName": "Awesome Coding",
   "description": "A VsCode theme for awesome coding sessions.",
   "version": "0.0.1",
+  "publisher": "AwesomeCoding",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tianrodez/awesome-coding"
+  },
+  "keywords": [
+    "dark theme",
+    "theme",
+    "awesome coding",
+    "awesome syntax",
+    "awesome theme"
+  ],
   "engines": {
     "vscode": "^1.102.0"
   },
